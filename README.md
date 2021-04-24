@@ -1,7 +1,7 @@
 # olio_harjoitustyo
 Olio kurssin harjoitustyö.
 
-LUT Olio-ohjelmoinnin kurssin harjoitustyö.
+LUT Olio-ohjelmoinnin kurssin harjoitustyö. Harjoitustyö on toteutettu ryhmätyönä, tekijät: Jonas Koskula, Jouko Ruosteenoja, Elias Tiilikainen.
 
 
 Harjoitustyön lähdekoodi on ladattu tähän repositoryyn. 
