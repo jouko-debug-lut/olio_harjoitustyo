@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667059328673",
+    "project_id": "olioht",
+    "storage_bucket": "olioht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667059328673:android:1a48b56e62be4285c942e0",
+        "android_client_info": {
+          "package_name": "com.example.olio_uusi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667059328673-fa9csirqe0ntnr3bk40hep9svmeesqbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPHY5vprWyGraeLUMzIxZDS4eLJzMEdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667059328673-fa9csirqe0ntnr3bk40hep9svmeesqbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
